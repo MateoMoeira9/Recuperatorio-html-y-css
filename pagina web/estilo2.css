@@ -1,0 +1,35 @@
+body{
+    background-color: darkgray;
+    margin: auto;
+    padding: auto;
+    background-image: url(img/fender2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow-x:  hidden;
+    
+
+}
+.tabla{
+    border:30px;
+    width: 100%;
+
+    text-align: center;
+
+}
+
+.tabla th, table td{
+    border: 1px solid black;
+    padding: 10px;
+
+    text-align: left;
+
+
+}
+
+.tabla th{
+    background-color: rgb(121, 44, 44);
+
+
+}

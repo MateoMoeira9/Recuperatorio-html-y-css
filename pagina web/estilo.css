@@ -1,0 +1,68 @@
+body{ 
+
+    margin: 1100;
+    padding: 1100;
+    background-image: url(img/fender.png);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif ;
+ 
+    background-color: darkgray;
+   
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav{
+    position: relative;
+    background-color: rgb(138, 131, 131);
+    margin: 200px;
+    width: 500;
+    height: 50;
+    top: 200, -abajo;
+    left: derecha, -izquierda;
+
+
+}
+button{
+    position: relative;
+    
+    margin: 72px;
+    width: 500;
+    height: 500;
+    top: 200, -200;
+    left: 200, -200;
+ 
+
+}
+
+h1{
+
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    font-size: 50px;
+  
+}
+
+.parr{
+    font-style: italic;
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    width: 2000xp;
+    height: 200xp;
+    
+    
+    
+}
+
+.pie{
+    width: 1340px; 
+    height: 450px;
+    background-color: darkgrey;
+
+}
+.linea{
+    background-color: black;
+    height: 10px;
+    
+
+}

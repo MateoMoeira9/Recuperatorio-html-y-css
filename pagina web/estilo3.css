@@ -1,0 +1,11 @@
+body {
+    background-color: darkgray;
+    margin: auto;
+    padding: auto;
+    background-image: url(img/Jimmy\ Page.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow-x:  hidden;
+}
